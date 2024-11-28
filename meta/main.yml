@@ -3,7 +3,7 @@ dependencies:
   - ansistrano.deploy
 
 galaxy_info:
-  author: Conny Brunnkvist, Sergei Fedotov
+  author: Conny Brunnkvist
   description: Common post-deploy tasks for Symfony projects
   license: MIT
   min_ansible_version: 2.6
